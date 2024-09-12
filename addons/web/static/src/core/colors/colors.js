@@ -18,13 +18,13 @@ const COLORS_BRIGHT = [
     "#875a7b", // ~ Enterprise
     "#c49c94",
     "#e377c2",
-    "#dcd0d9", // Dashboards Primary
+    "#cae9fc", // Dashboards Primary
     "#7f7f7f",
     "#c7c7c7",
     "#bcbd22",
     "#dbdb8d",
     "#17becf",
-    "#a5d8d7", // Dashboards Secondary
+    "#9dd3f5", // Dashboards Secondary
 ];
 
 const COLORS_DARK = [
